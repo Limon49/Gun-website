@@ -1,0 +1,13 @@
+C:\Users\Limon\Desktop\MyPhone\MyPhone\bin\MyPhone.dll.config
+C:\Users\Limon\Desktop\MyPhone\MyPhone\bin\MyPhone.dll
+C:\Users\Limon\Desktop\MyPhone\MyPhone\bin\MyPhone.pdb
+C:\Users\Limon\Desktop\MyPhone\MyPhone\obj\Debug\Gun1.csproj.CoreCompileInputs.cache
+C:\Users\Limon\Desktop\MyPhone\MyPhone\obj\Debug\MyPhone.dll
+C:\Users\Limon\Desktop\MyPhone\MyPhone\obj\Debug\MyPhone.pdb
+C:\Users\Limon\Desktop\GUN\GUN\bin\MyPhone.dll.config
+C:\Users\Limon\Desktop\GUN\GUN\bin\MyPhone.dll
+C:\Users\Limon\Desktop\GUN\GUN\bin\MyPhone.pdb
+C:\Users\Limon\Desktop\GUN\GUN\obj\Debug\Gun1.csprojAssemblyReference.cache
+C:\Users\Limon\Desktop\GUN\GUN\obj\Debug\Gun1.csproj.CoreCompileInputs.cache
+C:\Users\Limon\Desktop\GUN\GUN\obj\Debug\MyPhone.dll
+C:\Users\Limon\Desktop\GUN\GUN\obj\Debug\MyPhone.pdb
